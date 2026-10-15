@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "dfccd1a973f257f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac05ca9d3ee1ee4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07be6961ca1257fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prodigy/study/rough.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rough"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8244636db5f3c883",
+    "type": "split",
+    "children": [
+      {
+        "id": "557af389ca651cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "490168b0c529cda8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "085caffb5b3e7932",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f304b885f624fc05",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c6d20973645427f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f12228f821a95c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10ba831a4772d275",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "prodigy/decisions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c7510f6f0ac28928",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "i-sakham/Objective.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Objective"
+            }
+          },
+          {
+            "id": "e506cc60c5553462",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0785ac001b7c44d5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a7d10b82cce10ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "i-sakham/Objective.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Objective"
+            }
+          },
+          {
+            "id": "b01728ed74baaafa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 460.4921875
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "drawio:Launch draw.io editor": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b01728ed74baaafa",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-10-15 15.49.37.excalidraw.md",
+    "prodigy/study/rough.md",
+    "Excalidraw/Drawing 2026-10-15 15.49.30.excalidraw.md",
+    "Excalidraw",
+    "pisa-jev-experiment/reference-material.md",
+    "pisa-jev-experiment/pisa-jev-based-assessment.md",
+    "pisa-jev-experiment/how-experiment-works.md",
+    "prodigy/references.md",
+    "fluento/sabu/features/Customer tracker.md",
+    "prodigy/rough.md",
+    "prodigy/study",
+    "prodigy/services/admin.md",
+    "prodigy/user-journeys/class.md",
+    "prodigy/services/erp.md",
+    "prodigy/user-journeys/login.md",
+    "prodigy/api/erp.md",
+    "Untitled",
+    "prodigy/agent/overview.md",
+    "prodigy/agent/harness.md",
+    "prodigy/hardware/tablets or device to try.md",
+    "prodigy/hardware",
+    "prodigy/services",
+    "prodigy/data.md",
+    "prodigy/decisions.md",
+    "prodigy/system.md",
+    "prodigy/user-journeys",
+    "prodigy/prodigy.md",
+    "prodigy/api/lp.md",
+    "prodigy/api/cms.md",
+    "prodigy/agent/transport.md",
+    "prodigy/agent/tools.md",
+    "prodigy/agent/skills.md",
+    "question-bank",
+    "pisa-jev-experiment",
+    "lead-analyst",
+    "prodigy/agent/canvas",
+    "Pasted image 20260819123031.png"
+  ]
+}
